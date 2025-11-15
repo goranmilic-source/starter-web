@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Goran Milic - Student - Do not have Twitter
+	
 
 # THANKS
 
