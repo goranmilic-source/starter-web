@@ -2,6 +2,7 @@
 
 This is the first line.
 I have added some text here.
+Adding a line for Rebasing example
 
 ## Purpose
 This is the second line.
