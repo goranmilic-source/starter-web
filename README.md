@@ -12,5 +12,10 @@ YAY!
 Remember kids, if the client can't tell you what they need.
 You can give them whatever you don't want.
 
+## How to Contribute
+Consider Suicide. It's really cheap.
+
 ### Copyright
 2025 Copyright. Other words go here.
+
+
