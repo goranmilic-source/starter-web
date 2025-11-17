@@ -17,6 +17,6 @@ You can give them whatever you don't want.
 Consider Suicide. It's really cheap.
 
 ### Copyright
-2025 Copyright. Other words go here.
+2025 Copyright. Other words go here. All rights reserved
 
 
